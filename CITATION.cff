@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use ALFADEL in scholarly work, please cite the software release."
+title: "ALFADEL: A lexicon-aware environment for correcting Arabic OCR/HTR and editing historical orthography"
+type: software
+authors:
+  - family-names: "Ibrahim"
+    given-names: "Habib"
+version: "0.1.2"
+date-released: "2026-08-22"
+abstract: >-
+  ALFADEL is a local, lexicon-aware environment for assisted correction of
+  Arabic OCR/HTR and the editorial treatment of historical Arabic orthography.
+  It distinguishes probable recognition errors from legitimate historical
+  spellings and standard forms, and provides separate standardization and
+  preserve-historical-forms workflows with explicit human editorial control.
+keywords:
+  - Arabic
+  - Historical Arabic
+  - OCR
+  - HTR
+  - Digital Humanities
+  - Historical Orthography
+  - Arabic Morphology
+  - Text Correction
+  - Manuscripts
