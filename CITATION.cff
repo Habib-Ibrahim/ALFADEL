@@ -6,7 +6,7 @@ authors:
   - family-names: "Ibrahim"
     given-names: "Habib"
 version: "0.1.2"
-date-released: "2026-08-22"
+date-released: "2026-08-23"
 abstract: >-
   ALFADEL is a local, lexicon-aware environment for assisted correction of
   Arabic OCR/HTR and the editorial treatment of historical Arabic orthography.
