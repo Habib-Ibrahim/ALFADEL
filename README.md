@@ -2,6 +2,8 @@
 
 ### A lexicon-aware environment for correcting Arabic OCR/HTR and editing historical orthography
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22066579.svg)](https://doi.org/10.5281/zenodo.22066579)
+
 **ALFADEL** is a local, browser-based application for the assisted correction and editorial preparation of Arabic texts produced by Optical Character Recognition (OCR) or Handwritten Text Recognition (HTR). It is designed particularly for historical Arabic material, where a form that differs from modern orthography is not necessarily an error.
 
 The name **ALFADEL** refers to the eleventh-century Arabic Christian scholar and translator **ʿAbd Allāh ibn al-Faḍl (عبد الله ابن الفضل)**, whose scholarly activity included the revision and correction of Arabic religious texts.
