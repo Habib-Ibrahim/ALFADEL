@@ -12,6 +12,12 @@ ALFADEL was developed to address a recurring problem in historical-text editing:
 
 > **Important:** the public repository contains the ALFADEL software code but **does not include the lexical resources or controlled corpus used during development and testing**. See [Resource provenance and copyright](#resource-provenance-and-copyright) and [PROVENANCE.md](PROVENANCE.md).
 
+## Citation
+
+If you use ALFADEL in your research, please cite:
+
+Habib Ibrahim. *ALFADEL: A lexicon-aware environment for correcting Arabic OCR/HTR and editing historical orthography*. Version 0.1.2. Zenodo, 2026. https://doi.org/10.5281/zenodo.22066579
+
 ## Screenshots
 
 ### Main interface
